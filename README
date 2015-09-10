@@ -1,0 +1,4 @@
+#put probe servers (must be reachable by SSH) in probes
+#put targets in targets
+#cron it all 24 hours
+#enjoy data bro
